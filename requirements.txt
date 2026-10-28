@@ -1,0 +1,2 @@
+Python version: Python 3.14.6
+Libraries used: sklearn, matplotlib, matplotlib.pyplot, pandas, seaborn, mlflow, time, numpy, shap, joblib, json,
