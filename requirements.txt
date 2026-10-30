@@ -1,2 +1,12 @@
-Python version: Python 3.14.6
-Libraries used: sklearn, matplotlib, matplotlib.pyplot, pandas, seaborn, mlflow, time, numpy, shap, joblib, json, requests, pydantic, fastapi
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pandas
+numpy
+joblib
+matplotlib
+seaborn
+mlflow
+shap
+requests
